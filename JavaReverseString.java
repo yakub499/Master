@@ -4,7 +4,7 @@ package com.journaldev.javaprograms;
 public class JavaReverseString {
 
 	public static void main(String[] args) {
-		System.out.println(reverseString("abc"));
+		System.out.println(reverseString("abcd"));
 		System.out.println(reverseString("123!@#098*"));
 	}
 
